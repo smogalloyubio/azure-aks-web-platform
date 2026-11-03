@@ -413,7 +413,7 @@ Before deploying the project, prepare the following tools and resources:
 - GitHub Actions secrets for the required authentication and scanning integrations.
 
 ---
-
+![argocd deployment](https://github.com/smogalloyubio/azure-aks-web-platform/blob/main/project-picture/Screenshot%202026-10-29%20at%2021.36.41.png)
 ## Deployment Guide
 
 ### Step 1: Clone the repository
