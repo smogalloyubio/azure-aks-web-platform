@@ -379,6 +379,8 @@ Argo CD is installed in the `argocd` namespace.
 
 It provides GitOps-based application delivery capabilities by reconciling Kubernetes resources against Git-defined desired state.
 
+![argocd. workflow](https://github.com/smogalloyubio/azure-aks-web-platform/blob/main/project-picture/Screenshot%202026-10-29%20at%2020.55.45.png)
+
 ### Prometheus and Grafana
 
 The kube-prometheus-stack Helm chart is installed in the `monitoring` namespace.
