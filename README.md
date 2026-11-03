@@ -365,6 +365,7 @@ The workflow also attempts to attach an SBOM attestation and verify the image si
 This demonstrates an approach to improving container image provenance and software supply-chain security.
 
 ---
+![gitaction workflow](https://github.com/smogalloyubio/azure-aks-web-platform/blob/main/project-picture/Screenshot%202026-10-25%20at%2012.10.54.png)
 
 ## 5. Argo CD and Monitoring
 
