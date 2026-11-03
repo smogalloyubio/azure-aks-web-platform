@@ -50,11 +50,7 @@ GitHub Actions is used to automate infrastructure checks, application validation
 ---
 
 ## Architecture
-
-The architecture combines application development, infrastructure provisioning, containerization, and Kubernetes operations.
-### Architecture diagram
-
-**Note:** The diagram describes the components and intended workflow. The current repository has separate infrastructure and application workflows. The application workflow and image references need some alignment before the complete automated build-to-AKS delivery process can be considered verified. The Kubernetes manifests are present, but the workflow does not currently show an automated `kubectl apply` deployment stage.
+![project digram workflow](https://github.com/smogalloyubio/azure-aks-web-platform/blob/main/project-picture/webfinalapp.jpg)
 
 ---
 
